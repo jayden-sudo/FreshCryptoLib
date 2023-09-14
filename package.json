@@ -1,0 +1,18 @@
+{
+  "name": "sec256r1",
+  "version": "1.0.0",
+  "description": "The Fresh Crypto Lib is a set of functions for blockchain systems such as Wallet, SmartContracts.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.3"
+  }
+}
